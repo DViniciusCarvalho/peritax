@@ -107,11 +107,11 @@
                 <ul>
                     <li>
                         <img src="{{ asset('assets/instagram.png') }}" alt="golden instagram icon">
-                        <p>instagram.com</p>
+                        <a href="#">instagram.com</a>
                     </li>
                     <li>
                         <img src="{{ asset('assets/facebook.png')}}" alt="golden facebook icon">
-                        <p>facebook.com</p>
+                        <a href="#">facebook.com</a>
                     </li>
                 </ul>
             </div>

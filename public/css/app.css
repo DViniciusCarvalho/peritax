@@ -144,7 +144,7 @@ footer > .footer-info > .footer-section > ul {
 footer > .footer-info > .footer-section > ul > li {
     display: flex;
     align-items: center;
-    gap: 5px;
+    gap: 8px;
     list-style-type: none;
 }
 
@@ -163,6 +163,14 @@ footer > .footer-info > .footer-section > ul > li > img {
 
 footer > .footer-info > .footer-section > ul > li > p {
     color: white;
+    text-align: justify;
+    text-justify: inter-word;
+    word-break: break-all;
+}
+
+footer > .footer-info > .footer-section > ul > li > a {
+    color: white;
+    text-decoration: none;
 }
 
 footer > .footer-info > .footer-section > ul > li > a:hover {
