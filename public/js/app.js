@@ -1,3 +1,5 @@
+import bootstrap from 'bootstrap';
+
 const documentBody = document.querySelector('body');
 const navMenu = document.querySelector('#nav-menu');
 const toggleMenu = document.querySelector('#toggle-menu');
